@@ -1,5 +1,5 @@
 # RUN (AAAI 2024)
-Official code of the paper Root Cause Analysis In Microservice Using Neural Granger Causal Discovery.
+Official code of the [paper](https://arxiv.org/abs/2402.01140) Root Cause Analysis In Microservice Using Neural Granger Causal Discovery . 
 
 ## Introduction
 We propose a novel approach for root cause analysis using neural Granger causal discovery with contrastive learning.
