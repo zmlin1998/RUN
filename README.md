@@ -10,7 +10,7 @@ We propose a novel approach for root cause analysis using neural Granger causal 
 
 ## Reproduce RUN
 ```
-python main.py --root_path ./ --data_path data --root_cause root_cause
+python main.py --root_path ./ --data_path data --root_cause root_cause --trigger_point trigger_point
 ```
 
 
